@@ -3,6 +3,7 @@
   I think　<img src="https://skillicons.dev/icons?i=emacs"/>　is BETTER than　<img src="https://skillicons.dev/icons?i=vim"/> 　　
 </p>
 
+<!--
 ### Stack
 #### Langs
 <p align="center">
@@ -30,6 +31,7 @@
 
   etc...
 </p>
+-->
 
 ### Links
 MyWeb Site 🚧 [mizuhugu35.tokyo](https://www.mizuhugu35.tokyo)
