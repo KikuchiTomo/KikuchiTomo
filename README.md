@@ -1,6 +1,6 @@
 ## Tomoo KIKUCHI
 <p align="center">  
-  I think　<img src="https://skillicons.dev/icons?i=emacs"/>　is BETTER than　<img src="https://skillicons.dev/icons?i=vim"/> 　　
+ 　<img src="https://skillicons.dev/icons?i=emacs"/> 　＞ 　<img src="https://skillicons.dev/icons?i=vim"/> 　　
 </p>
 
 <!--
