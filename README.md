@@ -1,6 +1,10 @@
 ## KikuchiTomo
 <br>
-https://KikuchiTomo.github.io/index.html
+
+
+Please check my profile: https://KikuchiTomo.github.io/index.html
+
+
 <br>
 
 
