@@ -1,6 +1,5 @@
 ## KikuchiTomo
-
-<br>
+<img src="https://komarev.com/ghpvc/?username=kikuchitomo">
 Please check my profile: https://KikuchiTomo.github.io/index.html
 <br>
 
